@@ -1,0 +1,17 @@
+# python gitignore
+
+# Ignore build directories
+**/build/
+**/out/
+
+# Ignore IDEA and OS files
+.idea/
+*.iml
+.DS_Store
+
+# ignore .venv
+.venv
+
+# chatgpt - conversations
+chatgpt_export
+
